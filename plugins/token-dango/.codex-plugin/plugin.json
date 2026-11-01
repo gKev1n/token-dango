@@ -1,0 +1,27 @@
+{
+  "name": "token-dango",
+  "version": "0.2.0",
+  "description": "在会话侧边面板里显示这条 Codex 会话的上下文占用、Token 用量和账号额度。只读本机日志。",
+  "author": {
+    "name": "gKev1n",
+    "url": "https://github.com/gKev1n"
+  },
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Token 团子",
+    "shortDescription": "看看这条会话吃了多少 Token",
+    "longDescription": "新标签页 → 更多工具 → Token 团子。团子肚子里的液面就是上下文占用，表情跟着会话状态变。数据只读本机 ~/.codex 日志，不联网。",
+    "developerName": "gKev1n",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "logo": "./assets/dango.svg",
+    "composerIcon": "./assets/dango.svg",
+    "websiteURL": "https://github.com/gKev1n/token-dango"
+  },
+  "homepage": "https://github.com/gKev1n/token-dango",
+  "repository": "https://github.com/gKev1n/token-dango"
+}

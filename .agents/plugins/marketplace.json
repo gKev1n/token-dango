@@ -1,0 +1,12 @@
+{
+  "name": "token-dango",
+  "interface": { "displayName": "Token 团子" },
+  "plugins": [
+    {
+      "name": "token-dango",
+      "source": { "source": "local", "path": "./plugins/token-dango" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}
