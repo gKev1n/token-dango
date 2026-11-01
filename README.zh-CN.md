@@ -20,6 +20,8 @@ ChatGPT 桌面版（Codex）的会话面板插件，在会话右侧的标签页�
 
 <sub>截图使用演示数据。</sub>
 
+> 🍡 如果团子帮你看清了自己的额度，点个 ⭐ 喂它一颗星吧，星星是它最爱的零食。
+
 ## 显示什么
 
 - **上下文**：百分比、已用 / 窗口大小、剩余
@@ -107,6 +109,10 @@ cd plugins/token-dango && /usr/bin/python3 -m unittest discover -s tests -v
 | `plugins/token-dango/panel.html` | 面板界面：团子、指标、明细 |
 | `plugins/token-dango/prices.json` | 各模型的 API 价格（标准 / Fast × 短 / 长上下文） |
 | `plugins/token-dango/tests/test_server.py` | 19 个测试：累计数、半行、文件替换、跨会话取额度、进行中的轮次、工具时间去重、按请求分档计价、Fast 档、未知模型、老会话粗估等 |
+
+## 喂团子
+
+发现 bug 或者想加功能，欢迎提 Issue 和 PR。觉得有用的话点个 ⭐，团子会开心地眨眨眼。
 
 ## 许可
 

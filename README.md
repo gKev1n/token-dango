@@ -20,6 +20,8 @@ The liquid inside the dango is the conversation's context usage: matcha green be
 
 <sub>Screenshots use demo data.</sub>
 
+> 🍡 If the dango helped you see where your quota went, give it a ⭐. Stars are its favorite snack.
+
 ## What it shows
 
 - **Context**: percentage, used / window size, remaining
@@ -107,6 +109,10 @@ cd plugins/token-dango && /usr/bin/python3 -m unittest discover -s tests -v
 | `plugins/token-dango/panel.html` | Panel UI: the dango, metrics and details |
 | `plugins/token-dango/prices.json` | API prices per model (Standard / Fast × short / long context) |
 | `plugins/token-dango/tests/test_server.py` | 19 tests: totals, half-written lines, replaced files, quota across conversations, running turns, overlapping tool time, per-request pricing, Fast tier, unknown models, totals fallback |
+
+## Feed the dango
+
+Found a bug or want a feature? Issues and PRs are welcome. If it's useful to you, a ⭐ makes the dango blink happily.
 
 ## License
 
