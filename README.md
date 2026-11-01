@@ -2,6 +2,8 @@
 
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
 
+<p align="center"><b>⭐ Star first, read later. The dango is hungry.</b><br><sub>(Just kidding… mostly.)</sub></p>
+
 # Token Dango (Token 团子)
 
 A conversation-panel plugin for the ChatGPT desktop app (Codex). It opens as a tab beside a conversation and shows how many tokens that conversation has used.

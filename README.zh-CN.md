@@ -2,6 +2,8 @@
 
 <p align="center"><a href="README.md">English</a> · <b>简体中文</b></p>
 
+<p align="center"><b>⭐ 先点 Star 再往下看，团子饿了。</b><br><sub>（开玩笑的……其实是认真的）</sub></p>
+
 # Token 团子
 
 ChatGPT 桌面版（Codex）的会话面板插件，在会话右侧的标签页里显示这条会话用了多少 Token。
